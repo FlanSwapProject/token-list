@@ -26,7 +26,7 @@
       "chainId": 56,
       "decimals": 18,
       "position": 2,
-      "logoURI": ""
+      "logoURI": "https://raw.githubusercontent.com/KiwiDefi/LOGO/main/KIWI%20DEFI%20LOGO-02.png"
     },
     {
       "name": "SPE Token",
@@ -35,7 +35,7 @@
       "chainId": 56,
       "decimals": 18,
       "position": 3,
-      "logoURI": "https://assets.trustwalletapp.com/blockchains/smartchain/assets/0xdBaAa36B347d56b77Ce0e36f050fCeEBbF9fbc38/logo.png"
+      "logoURI": "https://github.com/Speednodenetwork/Logo/blob/main/SpeedNode_500x500.png?raw=true"
     },
     {
       "name": "CRO Token",
@@ -44,7 +44,7 @@
       "chainId": 56,
       "decimals": 18,
       "position": 4,
-      "logoURI": ""
+      "logoURI": "https://avatars.githubusercontent.com/u/77773410?s=200&v=4"
     },
     {
       "name": "HORA Os",
